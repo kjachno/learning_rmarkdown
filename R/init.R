@@ -1,5 +1,5 @@
-user_name = "kirill"
-user_email = "kirill@gmail.com"
+user_name = "kjachno"
+user_email = "kim.jachno@monash.edu"
 
 cmd1 <- paste0("git config --global user.name ", user_name)
 cmd2 <- paste0("git config --global user.email ", user_email)
